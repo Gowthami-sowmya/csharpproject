@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\Moviecrusier final check\Moviecrusier final check\obj\Debug\Moviecrusier final check.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Moviecrusier final check\Moviecrusier final check\bin\Debug\Moviecrusier final check.exe.config
+C:\Users\DELL\source\repos\Moviecrusier final check\Moviecrusier final check\bin\Debug\Moviecrusier final check.exe
+C:\Users\DELL\source\repos\Moviecrusier final check\Moviecrusier final check\bin\Debug\Moviecrusier final check.pdb
+C:\Users\DELL\source\repos\Moviecrusier final check\Moviecrusier final check\obj\Debug\Moviecrusier final check.exe
+C:\Users\DELL\source\repos\Moviecrusier final check\Moviecrusier final check\obj\Debug\Moviecrusier final check.pdb
+C:\Users\DELL\source\repos\Moviecrusier final check\Moviecrusier final check\bin\Debug\Com.Cognizant.MovieCruiser.Model.dll
+C:\Users\DELL\source\repos\Moviecrusier final check\Moviecrusier final check\bin\Debug\Com.Cognizant.MovieCruiser.Dao.pdb
+C:\Users\DELL\source\repos\Moviecrusier final check\Moviecrusier final check\bin\Debug\Com.Cognizant.MovieCruiser.Model.pdb
+C:\Users\DELL\source\repos\Moviecrusier final check\Moviecrusier final check\obj\Debug\Moviecrusier final check.csproj.CopyComplete
+C:\Users\DELL\source\repos\Moviecrusier final check\Moviecrusier final check\obj\Debug\Moviecrusier final check.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Moviecrusier final check\Moviecrusier final check\bin\Debug\Com.Cognizant.MovieCruiser.Dao.dll
